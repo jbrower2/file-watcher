@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "glob": "^8.1.0",
+    "minimatch": "^6.2.0"
+  }
+}
